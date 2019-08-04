@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PerfomanceLabTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PerfomanceLabTest_jar</output-path>
+    <root id="archive" name="PerfomanceLabTest.jar">
+      <element id="module-output" name="PerfomanceLabTest" />
+    </root>
+  </artifact>
+</component>
